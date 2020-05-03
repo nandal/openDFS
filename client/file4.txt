@@ -1,0 +1,21 @@
+file4_START
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4 text a quick brown fox jump over a lazy dog.
+file4_text_a_quick_brown_fox_jump_over_a_lazy_dog.
+file4_END

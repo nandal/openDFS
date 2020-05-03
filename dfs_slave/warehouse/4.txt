@@ -1,0 +1,69 @@
+# makefile for client
+mydfs: mydfs.o \
+write_file.o \
+read_file.o \
+delete_file.o \
+list_file.o \
+ask_server_stop.o \
+process.o \
+help.o \
+move_file.o \
+copy_file.o \
+change_dir.o \
+make_dir.o \
+create_path.o \
+login.o \
+get_filename.o 
+	gcc mydfs.c -o mydfs \
+	write_file.o \
+	read_file.o \
+	delete_file.o \
+	list_file.o \
+	ask_server_stop.o \
+	process.o \
+	help.o \
+	move_file.o \
+	copy_file.o \
+	change_dir.o \
+	make_dir.o \
+	login.o \
+	create_path.o \
+	get_filename.o
+
+get_filename.o: get_filename.c \
+header/client.h
+	gcc get_filename.c -c
+
+create_path.o: create_path.c \
+header/client.h
+	gcc create_path.c -c
+
+make_dir.o: make_dir.c \
+header/client.h
+	gcc make_dir.c -c 
+
+login.o: login.c \
+header/client.h
+	gcc login.c -c
+
+change_dir.o: change_dir.c \
+header/client.h
+	gcc change_dir.c -c
+
+mydfs.o: mydfs.c \
+header/client.h
+	gcc mydfs.c -c
+
+process.o: process.c \
+header/client.h
+	gcc process.c -c
+
+help.o: help.c \
+header/client.h
+	gcc help.c -c
+
+move_file.o: move_file.c \
+header/client.h
+	gcc move_file.c -c
+
+copy
